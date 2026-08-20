@@ -1,0 +1,25 @@
+{
+  "name": "МедАналіз — Каталог платних послуг",
+  "short_name": "МедАналіз",
+  "description": "Каталог платних лабораторних послуг КНП ЦПМСД №2 Дарницького району м. Києва",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1e6b1a",
+  "orientation": "portrait",
+  "lang": "uk",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
