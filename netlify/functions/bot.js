@@ -1,6 +1,3 @@
-// Telegram Bot - Cloudflare Worker
-// КНП ЦПМСД №2 — МедАналіз
-
 const BOT_TOKEN = '8950197966:AAFuKGdt1Y_WFC1mLNlKkC3S7H0OywX-Flo';
 const SITE_URL = 'https://medanaliz-cpmsd2.netlify.app';
 
